@@ -1,2 +1,2 @@
 # PMID_33413638
-Code for Figure 4 from the publication "DNA methylation and lipid metabolism: an EWAS of 226 metabolic measures" by Gomez-Alsonso et al.
+Code for Figure 4 from the publication "DNA methylation and lipid metabolism: an EWAS of 226 metabolic measures" by Gomez-Alsonso et al. The figure can be recreated using the data present and the 
